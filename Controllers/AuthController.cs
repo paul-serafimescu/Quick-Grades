@@ -13,7 +13,7 @@ using System.Threading.Tasks;
    GET /users <200> 9/29/2020 10:18:44 AM
 */
 
-namespace Library.Controllers
+namespace QuickGrades.Controllers
 {
     [ApiController]
     [Route("users")]

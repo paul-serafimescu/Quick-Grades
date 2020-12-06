@@ -12,7 +12,7 @@ using Microsoft.EntityFrameworkCore;
    GET /grades <200> 9/29/2020 10:18:44 AM
 */
 
-namespace Library.Controllers
+namespace QuickGrades.Controllers
 {
     public class PatchObject {
         public string field {get; set; }

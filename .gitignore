@@ -3,6 +3,7 @@
 
 # Development Folders
 .vscode
+*.db
 
 # User-specific files
 *.suo

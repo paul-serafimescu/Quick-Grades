@@ -1,7 +1,7 @@
 using System;
 using System.Collections.Generic;
 
-namespace Library
+namespace QuickGrades
 {
     public class Author {
         public int Id { get; set; }
