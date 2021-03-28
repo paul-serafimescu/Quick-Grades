@@ -8,14 +8,14 @@ using QuickGrades;
 namespace QuickGrades.Migrations
 {
     [DbContext(typeof(AuthorContext))]
-    [Migration("20201206013053_InitialCreate")]
+    [Migration("20210328012545_InitialCreate")]
     partial class InitialCreate
     {
         protected override void BuildTargetModel(ModelBuilder modelBuilder)
         {
 #pragma warning disable 612, 618
             modelBuilder
-                .HasAnnotation("ProductVersion", "3.1.8");
+                .HasAnnotation("ProductVersion", "5.0.4");
 
             modelBuilder.Entity("QuickGrades.Author", b =>
                 {

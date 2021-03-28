@@ -13,7 +13,7 @@ namespace QuickGrades.Migrations
         {
 #pragma warning disable 612, 618
             modelBuilder
-                .HasAnnotation("ProductVersion", "3.1.8");
+                .HasAnnotation("ProductVersion", "5.0.4");
 
             modelBuilder.Entity("QuickGrades.Author", b =>
                 {
